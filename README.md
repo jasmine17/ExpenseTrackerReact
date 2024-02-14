@@ -6,6 +6,7 @@ Its main purpose is to keep tract of income and expenses. Add and remove items a
 
 
 **Project Specifications**
+
 Create UI for project
 Display transaction items in DOM
 Show balance, expense and income totals
