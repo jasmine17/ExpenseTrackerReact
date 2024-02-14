@@ -7,9 +7,14 @@ Its main purpose is to keep tract of income and expenses. Add and remove items a
 
 **Project Specifications**
 
-Create UI for project
-Display transaction items in DOM
-Show balance, expense and income totals
-Add new transation and reflect in total
-Delete items from DOM
-Persist to local storage
+1. Create UI for project
+2. Display transaction items in DOM
+3. Show balance, expense and income totals
+4. Add new transation and reflect in total
+5. Delete items from DOM
+6. Persist to local storage
+
+
+
+
+
